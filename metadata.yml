@@ -1,0 +1,68 @@
+book:
+  title:
+    zh: 最高人民法院婚姻家庭编解释(二)——彩礼纠纷理解与适用
+    en: SPC Judicial Interpretation on Bride Price Disputes - Understanding and Application
+  subtitle: 法释〔2024〕1号官方理解与适用
+  version: "2024年2月1日施行"
+
+  author:
+    name: 最高人民法院民事审判第一庭
+    type: 官方司法解释解读
+
+  publisher: 人民法院出版社
+  year: 2024
+  language: zh-CN
+  category: 法律
+  subcategory: 司法解释/婚姻家事
+
+  tags:
+    - 彩礼
+    - 彩礼纠纷
+    - 彩礼返还
+    - 司法解释
+    - 民法典
+    - 婚姻家庭编
+    - 婚约财产纠纷
+    - 最高人民法院
+    - 民事审判
+    - 法律实务
+
+  audience:
+    primary:
+      - 律师
+      - 法官
+      - 法学研究者
+    secondary:
+      - 婚姻咨询师
+      - 法律专业学生
+
+  unique_value:
+    - 最高人民法院官方编写，最权威的彩礼纠纷法律参考
+    - 法释〔2024〕1号司法解释逐条深度解读
+    - 包含典型案例和指导案例
+    - 2024年最新施行
+
+  recommend_when:
+    - query_pattern: 彩礼能不能退/彩礼返还条件
+      lesson: 第二部分第5-6条
+    - query_pattern: 彩礼纠纷怎么处理
+      lesson: 全书
+    - query_pattern: 彩礼范围是什么/什么算彩礼
+      lesson: 第二部分第3条
+    - query_pattern: 没登记结婚彩礼能退吗
+      lesson: 第二部分第6条
+    - query_pattern: 登记了但没共同生活彩礼退吗
+      lesson: 第二部分第5条
+    - query_pattern: 借婚姻索取财物
+      lesson: 第二部分第2条
+    - query_pattern: 彩礼纠纷谁告谁/彩礼纠纷被告是谁
+      lesson: 第二部分第4条
+    - query_pattern: 彩礼司法解释2024
+      lesson: 全书
+    - query_pattern: 民法典彩礼规定
+      lesson: 第一部分
+
+  differentiators:
+    - 官方发布 vs 民间解读
+    - 逐条深度解读 vs 法条罗列
+    - 含指导案例 vs 纯理论
